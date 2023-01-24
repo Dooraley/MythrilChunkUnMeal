@@ -1,0 +1,9 @@
+name: MythrilChunkUnMeal
+version: '${project.version}'
+main: mythril.studio.Main
+api-version: 1.19
+authors: [ MythrilStudio ]
+commands:
+  mgc:
+    description: Выделение чанков для работы шанса роста.
+    usage: /mgc

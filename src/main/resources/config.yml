@@ -1,0 +1,13 @@
+race_list:
+  elf:
+    name: "Эльф"
+    item_head: head_nickname
+    item_name: "Тут название предмета в GUI"
+    item_lore:
+      - Первая строка описания g
+      - Вторая строка описания
+    cmds:
+      - effect give %player% minecraft:speed 10 1
+      - effect give %player% minecraft:jump_boost 10 1
+
+
